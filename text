@@ -1,0 +1,24 @@
+{
+    "workbench.startupEditor": "none",
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.linkedEditing": true,
+    "files.autoSave": "onFocusChange",
+    "liveSassCompile.settings.autoprefix": [
+    
+
+    ],
+    "liveSassCompile.settings.generateMap": false,
+
+
+    "liveSassCompile.settings.formats": [
+        {
+          "format": "expanded",
+          "extensionName": ".css",
+          "savePath": "./css"
+        }
+      ]
+    
+}
+
